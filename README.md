@@ -1,4 +1,4 @@
-# Contributions gantt chart from GitHub
+# Historical GitHub contributions chart
 
 [![Contributions chart](examples/velimir-top20-tr.png)](examples/velimir-top20.png)
 
