@@ -2,8 +2,6 @@
 
 [![Contributions chart](examples/velimir-top20-tr.png)](examples/velimir-top20.png)
 
-Read more about script usage and examples in a blog [post](https://velimir.me.uk/historical-github-contributions-chart.html).
-
 ## Use
 
 ### Getting data
