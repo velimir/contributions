@@ -30,7 +30,7 @@ def arg_parser():
                         help='Verbose mode (default: %(default)s)',
                         default=False, action='store_true')
     parser.add_argument('-n', '--no-progress',
-                        help='Verbose mode (default: %(default)s)',
+                        help='Do not show progress bar (default: %(default)s)',
                         default=False, action='store_false')
     parser.add_argument('-m', '--max-concurrency',
                         help=('Maximum # of concurrent requests to GitHub '

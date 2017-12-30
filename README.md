@@ -39,7 +39,7 @@ optional arguments:
   -o OWNERS, --owner OWNERS
                         Owners to check
   -v, --verbose         Verbose mode (default: False)
-  -n, --no-progress     Verbose mode (default: False)
+  -n, --no-progress     Do not show progress bar (default: False)
   -m MAX_CONCURRENCY, --max-concurrency MAX_CONCURRENCY
                         Maximum # of concurrent requests to GitHub (default: 20)
   -c MAX_CONTRIBUTORS, --max-contributors MAX_CONTRIBUTORS
